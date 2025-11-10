@@ -1,0 +1,8 @@
+{
+	"name": "ai-worker",
+	"main": "src/index.js",
+	"compatibility_date": "2025-11-10",
+	"observability": {
+		"enabled": true,
+	},
+}
